@@ -5,6 +5,7 @@ import android.os.Bundle;
 
 import com.playsiteapp.contracts.MainContract;
 
+
 public class MainActivity extends AppCompatActivity implements MainContract.View {
 
     @Override
